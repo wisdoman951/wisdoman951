@@ -22,27 +22,35 @@
 | **企業 AI 知識雲** | **Infrastructure & Developer** | Java, Python, Vue, K8s, Docker, Milvus, ES, Redis | 負責企業級大模型基礎設施部署。 |
 | **ERP 系統** | **Full-Stack Developer** | React, Flask, MySQL, Docker, Pandas | 整合門市、療程、庫存與銷售之一站式管理系統，透過容器化實現快速部署。 |
 
-#### 🌐 Infrastructure & Security Ops | 基礎設施 & 資安維運
+### 🛠 Tech Stack
+
+#### 🌐 Infrastructure, Security & Cloud
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-#### 💻 Development
+#### 🤖 AI & Automation Engineering
+![LangGraph](https://img.shields.io/badge/AI-LangGraph-darkblue?style=for-the-badge)
+![AWS Bedrock](https://img.shields.io/badge/AI-AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![n8n](https://img.shields.io/badge/Automation-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Gemini](https://img.shields.io/badge/AI-Gemini-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 💻 Development & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![LangGraph](https://img.shields.io/badge/AI-LangGraph-darkblue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🧰 Productivity & Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### 🧰 Productivity & Strategy
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🌱 Continuous Learning & Growth
 雖然已具備實戰經驗，但我目前正致力於將知識體系「系統化」，並專注於以下領域的深造與認證取得：
