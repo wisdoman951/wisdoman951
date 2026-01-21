@@ -38,7 +38,7 @@
 | **Interactive Cyber Range** | **Full-Stack Architect** | React 18, TS, Zustand, Node.js, PostgreSQL, Socket.IO | 將傳統資安演練轉化為即時互動卡牌平台，導入樂觀鎖版本控制解決高併發同步問題。 |
 | **AI Platform Dashboard** | **Lead Product Developer** | AWS Lambda, Google API | 打造 AI 報告撰寫與合規性評估整合平台，串接 Serverless 架構實現非同步文件分析與雲端存取。 |
 | **Enterprise AI Application** | **Infrastructure & Developer** | Java, Python, Vue, K8s, Docker, Milvus, ES, Redis | 負責企業級大模型基礎設施部署，管理多維向量資料庫 (Milvus) 與大規模容器化服務。 |
-| **IPN ERP System** | **Full-Stack Developer** | React, Flask, MySQL, Docker, Pandas | 整合門市、療程、庫存與銷售之一站式管理系統，透過容器化實現快速部署。 |
+| **ERP System** | **Full-Stack Developer** | React, Flask, MySQL, Docker, Pandas | 整合門市、療程、庫存與銷售之一站式管理系統，透過容器化實現快速部署。 |
 
 #### 🌐 Infrastructure & Security Ops | 基礎設施 & 資安維運
 ![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
