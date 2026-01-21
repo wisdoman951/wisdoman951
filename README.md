@@ -30,6 +30,8 @@
 > [!IMPORTANT]
 > ## 🔒 NDA MENTIONED!!
 > **All project source codes are strictly PRIVATE due to Non-Disclosure Agreements (NDA) and financial security regulations. Technical architecture and implementation details are only available for discussion during formal interviews.**
+> **因涉及金融機構資安規範與企業保密協議 (NDA)，本帳號內所有相關專案原始碼均設為 PRIVATE。**
+> **關於系統架構設計、安全性考量及具體實作細節，僅限於正式面試或具備授權之場合進行深度技術討論。**
 
 | Project Name | Role | Technical Stack | Key Impact |
 | :--- | :--- | :--- | :--- |
