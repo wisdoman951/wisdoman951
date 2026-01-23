@@ -8,6 +8,10 @@
 
 ---
 
+A proactive persion who love to deliver value not only to clients but friends and co-workers, passionate in technical solution deliver and human-friendly implementation.
+
+---
+
 ### 🛠 Featured Projects
 > [!IMPORTANT]
 > ## 🔒 NDA MENTIONED!!
