@@ -42,19 +42,18 @@ A proactive persion who love to deliver value not only to clients but friends an
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Continuous Learning & Growth
-正致力於將知識「系統化」，專注於以下領域的深造：
-- **Practical DevSecOps**: 將安全性左移 (Shift Left) 融入企業開發生命週期與團隊應用開發。
-- **Kubernetes Security**: 準備 CKA 與 CKS 認證。
-- **Agentic AI Workflow**: 探索更複雜的 AI 代理人工作流與狀態機管理。
-
-
 ### 🛠 Featured Projects
 > [!IMPORTANT]
 > ## 🔒 NDA MENTIONED!!
 > **All project source codes are strictly PRIVATE due to Non-Disclosure Agreements (NDA) and financial security regulations. Technical architecture and implementation details are only available for discussion during formal interviews.**
 > **因涉及金融機構資安規範與企業保密協議 (NDA)，本帳號內所有相關專案原始碼均設為 PRIVATE。**
 > **關於系統架構設計、安全性考量及具體實作細節，僅限於正式面試或具備授權之場合進行深度技術討論。**
+
+### Continuous Learning & Growth
+正致力於將知識「系統化」，專注於以下領域的深造：
+- **Practical DevSecOps**: 將安全性左移 (Shift Left) 融入企業開發生命週期與團隊應用開發。
+- **Kubernetes Security**: 準備 CKA 與 CKS 認證。
+- **Agentic AI Workflow**: 探索更複雜的 AI 代理人工作流與狀態機管理。
 
 | Project Name | Role | Technical Stack | Key Impact |
 | :--- | :--- | :--- | :--- |
