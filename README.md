@@ -49,15 +49,15 @@ A proactive persion who love to deliver value not only to clients but friends an
 > **因涉及金融機構資安規範與企業保密協議 (NDA)，本帳號內所有相關專案原始碼均設為 PRIVATE。**
 > **關於系統架構設計、安全性考量及具體實作細節，僅限於正式面試或具備授權之場合進行深度技術討論。**
 
-### Continuous Learning & Growth
-正致力於將知識「系統化」，專注於以下領域的深造：
-- **Practical DevSecOps**: 將安全性左移 (Shift Left) 融入企業開發生命週期與團隊應用開發。
-- **Kubernetes Security**: 準備 CKA 與 CKS 認證。
-- **Agentic AI Workflow**: 探索更複雜的 AI 代理人工作流與狀態機管理。
-
 | Project Name | Role | Technical Stack | Key Impact |
 | :--- | :--- | :--- | :--- |
 | **互動式卡牌演練系統** | **Full-Stack Lead Product Developer** | React 18, TS, Zustand, Node.js, PostgreSQL, Socket.IO | 將傳統資安演練轉化為即時互動卡牌平台。 |
 | **AI 業務處理平台** | **Infra & Full-Stack Lead Product Developer** | AWS Lambda, Google API | 打造 AI 報告撰寫與合規性評估整合平台。 |
 | **企業 AI 知識雲** | **Infrastructure & Developer** | Java, Python, Vue, K8s, Docker, Milvus, ES, Redis | 負責企業級大模型基礎設施部署。 |
 | **ERP 系統** | **Full-Stack Developer** | React, Flask, MySQL, Docker, Pandas | 整合門市、療程、庫存與銷售之一站式管理系統，透過容器化實現快速部署。 |
+
+### Continuous Learning & Growth
+正致力於將知識「系統化」，專注於以下領域的深造：
+- **Practical DevSecOps**: 將安全性左移 (Shift Left) 融入企業開發生命週期與團隊應用開發。
+- **Kubernetes Security**: 準備 CKA 與 CKS 認證。
+- **Agentic AI Workflow**: 探索更複雜的 AI 代理人工作流與狀態機管理。
