@@ -1,6 +1,6 @@
 <h1 align="center">Larry Zhang</h1>
 <p align="center">
-  <b>Cybersecurity Consultant @ Deloitte</b><br/>
+  <b>Cybersecurity Consultant</b><br/>
   🎓 <b>National Chengchi University (NCCU)</b> | M.S. in Management Information Systems<br/>
   Security Risk Assessment • Strategic DevOps Consultant<br/>
   AI-Augmented Full-Stack Developer • AI Platform Architecture
